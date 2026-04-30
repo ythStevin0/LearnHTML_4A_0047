@@ -1,1 +1,1 @@
-![Preview](foto/screenshot.png)
+![Preview](foto/screenshoot.png)
